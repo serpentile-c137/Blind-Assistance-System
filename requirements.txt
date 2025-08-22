@@ -1,0 +1,17 @@
+pytesseract
+torch
+torchvision
+pyttsx3
+numpy
+tensorflow
+python-engineio
+matplotlib
+opencv-python
+protobuf>=3.20.0
+Pillow>=8.0.0
+lxml
+tf-slim
+notebook
+cython
+contextlib2
+pycocotools
